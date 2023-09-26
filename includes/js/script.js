@@ -113,7 +113,7 @@ document.getElementById("buy_now_btn12").addEventListener("click", function(){
 // unisex wears button
 
 document.getElementById("unisex_btn").addEventListener("click", function(){
-    location.href = "unisex_wears.html";
+    window.open(" ./unisex.html");
 });
 
 // beddings button
