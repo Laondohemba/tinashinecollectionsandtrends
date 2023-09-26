@@ -1,1 +1,1 @@
-# tinashinecollectionsandtrends.github.io
+# tinashinecollectionsandtrends
